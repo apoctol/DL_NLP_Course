@@ -1,4 +1,5 @@
 /.venv
 /DL_train.py
-**data
+**data*
 **wandb
+**.pt
